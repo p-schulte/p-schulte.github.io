@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Dynamic scene graph publication placeholder</title>
+  <desc id="desc">Abstract paper preview placeholder showing image frames connected to scene graph nodes.</desc>
+  <rect width="640" height="420" fill="#f5f7fb"/>
+  <rect x="34" y="36" width="572" height="348" rx="18" fill="#ffffff" stroke="#d9e1ee" stroke-width="3"/>
+  <rect x="78" y="84" width="118" height="76" rx="10" fill="#dfe8f5" stroke="#8aa3c2" stroke-width="3"/>
+  <rect x="260" y="84" width="118" height="76" rx="10" fill="#dfe8f5" stroke="#8aa3c2" stroke-width="3"/>
+  <rect x="442" y="84" width="118" height="76" rx="10" fill="#dfe8f5" stroke="#8aa3c2" stroke-width="3"/>
+  <path d="M196 122h64M378 122h64" stroke="#4d6f94" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="162" cy="272" r="34" fill="#26667f"/>
+  <circle cx="296" cy="232" r="28" fill="#6f8f72"/>
+  <circle cx="430" cy="282" r="31" fill="#b8644f"/>
+  <circle cx="506" cy="214" r="24" fill="#d0a94f"/>
+  <path d="M193 262l76-22M324 242l78 30M454 268l34-38M192 286l210 4" stroke="#6c7a89" stroke-width="5" stroke-linecap="round"/>
+  <text x="78" y="344" fill="#25313d" font-family="Arial, sans-serif" font-size="30" font-weight="700">Dynamic Scene Graphs</text>
+  <text x="78" y="372" fill="#5d6a78" font-family="Arial, sans-serif" font-size="20">Action classification from image sequences</text>
+</svg>
