@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Paul Schulte",
-    "label": "Computer Science Student",
+    "label": "M.Sc. Computer Science Student",
     "image": "",
-    "email": "paul.schulte[ät]rwth-aachen.de",
-    "url": "https://www.p-schulte.github.io",
-    "summary": "Computer Science graduate from RWTH Aachen University, starting my Master’s in Computer Science in Fall 2025. My interests lie in robotics, graph theory, optimization, and machine learning, with academic and industry experience in Germany, Finland, and the U.S.",
+    "email": "paul.schulte@rwth-aachen.de",
+    "url": "https://p-schulte.github.io",
+    "summary": "M.Sc. Computer Science student at RWTH Aachen University focusing on machine learning, optimization, algorithms, and graph theory. Research experience includes self-supervised learning of discrete relational structures from image sequences and safety-critical trajectory planning.",
     "location": {
       "city": "Aachen",
       "region": "North Rhine-Westphalia",
@@ -13,45 +13,54 @@
     },
     "profiles": [
       {
+        "network": "GitHub",
+        "username": "PaulSchulteSythen",
+        "url": "https://github.com/PaulSchulteSythen"
+      },
+      {
         "network": "LinkedIn",
         "username": "paul-schulte-607085218",
-        "url": "https://www.linkedin.com/in/paul-schulte-607085218"
+        "url": "https://www.linkedin.com/in/paul-schulte-607085218/"
       }
     ]
   },
   "work": [
     {
-      "name": "RWTH Aachen University",
-      "position": "Student Research Assistant",
+      "name": "RWTH Aachen University, Chair for Machine Learning and Inference (i6)",
+      "position": "Graduate Research Assistant",
+      "url": "https://ml.rwth-aachen.de/",
       "location": "Aachen, Germany",
       "startDate": "2025-09-01",
-      "summary": "Hiwi student at the Chair for Machine Learning and Inference (i6), continuing my thesis on action classification with dynamic scene graphs.",
+      "summary": "Researching self-supervised learning of discrete relational structures from image sequences.",
       "highlights": [
-        "Action classification through dynamic scene graph generation from image sequences"
+        "Extended thesis work on dynamic scene graph generation for action classification",
+        "Equal-contribution first author of an oral GenPlan Workshop paper at ICAPS 2026"
       ]
     },
     {
-      "name": "Carnegie Mellon University",
-      "position": "Undergraduate Research Intern",
+      "name": "Robotics Institute, Carnegie Mellon University",
+      "position": "Undergraduate Research Intern (RISE Worldwide)",
+      "url": "https://www.ri.cmu.edu/",
       "location": "Pittsburgh, PA, USA",
-      "startDate": "2024-06-01",
-      "endDate": "2024-08-31",
-      "summary": "Research intern in the Robotics Institute Summer Scholars (RISS) program.",
+      "startDate": "2024-05-01",
+      "endDate": "2024-09-30",
+      "summary": "Worked on safety-critical trajectory planning for interactive traffic safety.",
       "highlights": [
-        "Developed a hierarchical safe control framework for autonomous vehicles",
-        "Worked with Robot Operating System (ROS) and robotics simulation tools"
+        "Developed an MPC framework with Control Barrier Functions for safety-critical trajectory planning",
+        "Implemented real-time planning in JAX for CPU-based F1TENTH hardware, reducing reliance on GPU-heavy approaches",
+        "Co-authored the USDOT/Safety21 final report Risk-Aware Warning and Control for Interactive Traffic Safety"
       ]
     },
     {
       "name": "Siemens Logistics",
-      "position": "Software Engineer (Working Student)",
-      "location": "Düsseldorf, Germany",
+      "position": "Software Engineering Working Student",
+      "url": "https://www.siemens-logistics.com/",
+      "location": "Duesseldorf, Germany",
       "startDate": "2023-02-01",
-      "endDate": "2023-11-30",
-      "summary": "Conceptual design and programming of features for baggage handling system software.",
+      "endDate": "2024-11-30",
+      "summary": "Designed and implemented C# features for an airport baggage handling system planning tool.",
       "highlights": [
-        "C# development",
-        "Software tool enhancements for airport baggage handling systems"
+        "Optimized computationally intensive planning components, reducing runtime by up to 80%"
       ]
     }
   ],
@@ -60,100 +69,110 @@
       "institution": "RWTH Aachen University",
       "area": "Computer Science",
       "studyType": "Master of Science",
-      "startDate": "2025-09-01",
-      "endDate": "",
-      "score": "",
-      "courses": []
+      "url": "https://www.rwth-aachen.de/",
+      "startDate": "2025-10-01",
+      "score": "1.2 (1.0 best)",
+      "courses": ["Machine Learning", "Optimization", "Algorithms", "Graph Theory"]
     },
     {
       "institution": "RWTH Aachen University",
       "area": "Computer Science",
       "studyType": "Bachelor of Science",
+      "url": "https://www.rwth-aachen.de/",
       "startDate": "2022-10-01",
       "endDate": "2025-08-31",
-      "score": "1.1/1.0 (with distinction)",
-      "courses": ["Data Structures", "Algorithms", "Machine Learning", "Python", "C", "Git"]
+      "score": "1.1 with distinction (1.0 best)",
+      "courses": [
+        "Dean's List: top 5% of cohort across all semesters",
+        "Completed degree in 5 of 6 semesters",
+        "Bachelor thesis: Action Classification Through Dynamic Scene Graph Generation from Image Sequences (Grade: 1.0)"
+      ]
     },
     {
       "institution": "Aalto University",
       "area": "Computer Science",
-      "studyType": "Exchange Semester",
+      "studyType": "Semester Abroad",
+      "url": "https://www.aalto.fi/",
       "startDate": "2024-08-01",
       "endDate": "2024-12-31",
-      "score": "5.0/5.0 (34 CR)",
-      "courses": ["Algorithms", "C++", "Machine Learning"]
+      "score": "5.0 / 5.0",
+      "courses": ["Competitive Programming", "Distributed Algorithms", "Graph Theory"]
+    }
+  ],
+  "publications": [
+    {
+      "name": "Learning Lifted Symbolic Planning Domains from Image Sequences (VISA)",
+      "publisher": "GenPlan Workshop at ICAPS",
+      "releaseDate": "2026-01-01",
+      "url": "/publications/#rakhman2026visa",
+      "summary": "Oral presentation. Equal contribution by Ulzhalgas Rakhman and Paul Schulte."
     },
     {
-      "institution": "Joseph-König-Gymnasium",
-      "area": "High School",
-      "studyType": "Abitur",
-      "startDate": "2014-09-01",
-      "endDate": "2022-06-30",
-      "score": "1.2/1.0"
+      "name": "Action Classification Through Dynamic Scene Graph Generation from Image Sequences",
+      "publisher": "RWTH Aachen University",
+      "releaseDate": "2025-06-01",
+      "url": "https://ml.rwth-aachen.de//theses/schulte2025.pdf",
+      "summary": "Bachelor thesis, grade 1.0."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Math Exercise Generator",
+      "summary": "Web-based linear algebra exercise generator with automatic solution computation.",
+      "description": "Web-based linear algebra exercise generator with automatic solution computation.",
+      "highlights": ["JavaScript", "HTML", "Vue.js"]
+    },
+    {
+      "name": "Neuroevolution of Fixed Topologies",
+      "summary": "Implemented neural networks and evolutionary algorithms from scratch and applied them to OpenAI Gym environments.",
+      "description": "Implemented neural networks and evolutionary algorithms from scratch and applied them to OpenAI Gym environments.",
+      "url": "https://github.com/PaulSchulteSythen/Facharbeit/blob/master/Facharbeit.pdf",
+      "highlights": ["Python", "Reinforcement Learning"]
     }
   ],
   "awards": [
     {
-      "title": "Dean's List Honors (Top 5%)",
-      "date": "2025-01-01",
-      "awarder": "RWTH Aachen University",
-      "summary": "Academic Year 2023/24"
-    },
-    {
-      "title": "Dean's List Honors (Top 5%)",
-      "date": "2024-01-01",
-      "awarder": "RWTH Aachen University",
-      "summary": "Academic Year 2022/23"
-    },
-    {
       "title": "DAAD RISE Worldwide Scholarship",
-      "date": "2024-03-01",
-      "awarder": "DAAD (German Academic Exchange Service)",
-      "summary": "Scholarship for research internships abroad for German bachelor students in natural sciences and engineering."
+      "date": "2024-01-01",
+      "awarder": "DAAD",
+      "url": "https://www.daad.de/rise/en/rise-worldwide/",
+      "summary": "Scholarship supporting a research internship at Carnegie Mellon University."
     },
     {
-      "title": "Abiturpreis Mathematik",
-      "date": "2022-06-01",
-      "awarder": "Deutsche Mathematiker-Vereinigung (DMV)"
+      "title": "German Mathematical Society student member",
+      "date": "2022-01-01",
+      "awarder": "German Mathematical Society",
+      "url": "https://www.mathematik.de/"
     },
     {
-      "title": "DPG Abiturpreis",
-      "date": "2022-06-01",
-      "awarder": "Deutsche Physikalische Gesellschaft (DPG)"
+      "title": "German Physical Society student member",
+      "date": "2022-01-01",
+      "awarder": "German Physical Society",
+      "url": "https://www.dpg-physik.de/"
     }
   ],
   "skills": [
     {
       "name": "Programming",
-      "keywords": ["Python", "C", "C++", "C#", "Git"]
+      "keywords": ["Python", "C++", "Java", "C#", "JavaScript"]
     },
     {
-      "name": "Computer Science",
-      "keywords": ["Data Structures", "Algorithms", "Machine Learning", "Graph Theory"]
+      "name": "ML / Scientific Computing",
+      "keywords": ["JAX", "NumPy", "Machine Learning", "Optimization"]
     },
     {
-      "name": "Robotics",
-      "keywords": ["ROS", "Autonomous Vehicles", "Control Frameworks"]
+      "name": "Tools",
+      "keywords": ["Linux", "Git", "Docker", "LaTeX"]
     }
   ],
   "languages": [
     {
       "language": "German",
-      "fluency": "Native speaker"
+      "fluency": "Native"
     },
     {
       "language": "English",
-      "fluency": "Professional working proficiency"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Graph Theory",
-      "keywords": ["Optimization", "Machine Learning"]
-    },
-    {
-      "name": "Robotics",
-      "keywords": ["Autonomous Systems", "Safe Control"]
+      "fluency": "C1"
     }
   ]
 }

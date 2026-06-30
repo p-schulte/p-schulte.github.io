@@ -2,96 +2,91 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Paul Schulte
+    - name: Email
+      value: <a href="mailto:paul.schulte@rwth-aachen.de">paul.schulte@rwth-aachen.de</a>
+    - name: Website
+      value: <a href="https://p-schulte.github.io">p-schulte.github.io</a>
     - name: Languages
-      value: English, German
+      value: German (native), English (C1)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: M.Sc. Computer Science
+      institution: RWTH Aachen University, Aachen, Germany
+      year: Oct 2025 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "GPA: 1.2 (1.0 best)"
+        - "Focus: Machine Learning, Optimization, Algorithms, and Graph Theory"
+    - title: B.Sc. Computer Science
+      institution: RWTH Aachen University, Aachen, Germany
+      year: Oct 2022 - Aug 2025
       description:
-        - Description 1.
-        - Description 2.
+        - "GPA: 1.1 with distinction (1.0 best)"
+        - "Dean's List: top 5% of cohort across all semesters; completed degree in 5 of 6 semesters"
+        - "Bachelor thesis: <i>Action Classification Through Dynamic Scene Graph Generation from Image Sequences</i> (Grade: 1.0)"
+    - title: Semester Abroad, Computer Science
+      institution: Aalto University, Espoo, Finland
+      year: Aug 2024 - Dec 2024
+      description:
+        - "GPA: 5.0 / 5.0"
+        - "Coursework: Competitive Programming, Distributed Algorithms, Graph Theory"
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Research Assistant
+      institution: RWTH Aachen University, Chair for Machine Learning and Inference (i6), Aachen, Germany
+      year: Sep 2025 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Researching self-supervised learning of discrete relational structures from image sequences.
+        - Extended thesis work on dynamic scene graph generation for action classification.
+        - Equal-contribution first author of an oral GenPlan Workshop paper at ICAPS 2026.
+    - title: Undergraduate Research Intern (RISE Worldwide)
+      institution: Robotics Institute, Carnegie Mellon University, Pittsburgh, PA, USA
+      year: May 2024 - Sep 2024
       description:
-        - Description 1.
-        - Description 2.
+        - Developed an MPC framework with Control Barrier Functions for safety-critical trajectory planning.
+        - Implemented real-time planning in JAX for CPU-based F1TENTH hardware, reducing reliance on GPU-heavy approaches.
+        - Co-authored the USDOT/Safety21 final report <i>Risk-Aware Warning and Control for Interactive Traffic Safety</i>.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Professional Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Software Engineering Working Student
+      institution: Siemens Logistics, Duesseldorf, Germany
+      year: Feb 2023 - Nov 2024
+      description:
+        - "Designed and implemented C# features for an airport baggage handling system planning tool."
+        - Optimized computationally intensive planning components, reducing runtime by up to 80%.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - DAAD RISE Worldwide Scholarship
+    - year: 2022
       items:
-        - Max Planck Medal
+        - German Mathematical Society student member
+        - German Physical Society student member
 
-- title: Academic Interests
+- title: Selected Projects
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Math Exercise Generator
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Built a web-based linear algebra exercise generator with automatic solution computation.
+        - "Technologies: JavaScript, HTML, Vue.js."
+    - title: Neuroevolution of Fixed Topologies
       items:
-        - Description 1.
-        - Description 2.
+        - Implemented neural networks and evolutionary algorithms from scratch.
+        - Applied methods to OpenAI Gym environments and documented results in a technical report.
 
-- title: Other Interests
+- title: Technical Skills
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - "<u>Programming:</u> Python, C++, Java, C#, JavaScript"
+    - "<u>ML / Scientific Computing:</u> JAX, NumPy, Machine Learning, Optimization"
+    - "<u>Tools:</u> Linux, Git, Docker, LaTeX"

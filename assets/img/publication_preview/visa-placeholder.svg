@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">VISA publication placeholder</title>
+  <desc id="desc">Abstract paper preview placeholder showing visual sequences transformed into symbolic planning structure.</desc>
+  <rect width="640" height="420" fill="#f7f6f1"/>
+  <rect x="36" y="36" width="568" height="348" rx="18" fill="#ffffff" stroke="#ded8c8" stroke-width="3"/>
+  <rect x="78" y="86" width="110" height="70" rx="10" fill="#e6edf2" stroke="#8297a8" stroke-width="3"/>
+  <rect x="224" y="86" width="110" height="70" rx="10" fill="#e6edf2" stroke="#8297a8" stroke-width="3"/>
+  <rect x="370" y="86" width="110" height="70" rx="10" fill="#e6edf2" stroke="#8297a8" stroke-width="3"/>
+  <path d="M188 121h36M334 121h36M480 121h40" stroke="#8a7658" stroke-width="5" stroke-linecap="round"/>
+  <rect x="514" y="98" width="44" height="44" rx="8" fill="#d7b66f" stroke="#9a7a33" stroke-width="3"/>
+  <circle cx="164" cy="258" r="28" fill="#446f78"/>
+  <circle cx="278" cy="258" r="28" fill="#78906b"/>
+  <circle cx="392" cy="258" r="28" fill="#a45f52"/>
+  <path d="M192 258h58M306 258h58" stroke="#5f6a70" stroke-width="5" stroke-linecap="round"/>
+  <path d="M474 228h62M474 258h62M474 288h62" stroke="#35414c" stroke-width="6" stroke-linecap="round"/>
+  <text x="78" y="344" fill="#25313d" font-family="Arial, sans-serif" font-size="34" font-weight="700">VISA</text>
+  <text x="78" y="372" fill="#5d6a78" font-family="Arial, sans-serif" font-size="20">Learning lifted symbolic planning domains</text>
+</svg>

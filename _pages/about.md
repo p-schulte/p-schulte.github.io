@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computer Science Student at RWTH Aachen University
+subtitle: M.Sc. Computer Science Student at RWTH Aachen University
 
 profile:
   align: right
@@ -13,7 +13,7 @@ profile:
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 # announcements:
@@ -27,8 +27,8 @@ social: true # includes social icons at the bottom of the page
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-In 2025, I earned my Bachelor’s degree in Computer Science from RWTH Aachen University, where I will also begin my Master’s studies.
+I am an M.Sc. Computer Science student at RWTH Aachen University, focusing on machine learning, optimization, algorithms, and graph theory.
 
-In 2024, I was fortunate to gain two wonderful international experiences: a research internship at the Robotics Institute at Carnegie Mellon University and an exchange semester at Aalto University.
+At RWTH's Chair for Machine Learning and Inference, I research self-supervised learning of discrete relational structures from image sequences, extending my bachelor's thesis on dynamic scene graph generation for action classification. I am also an equal-contribution first author of an oral GenPlan Workshop paper at ICAPS 2026.
 
-I am still exploring which research directions excite me most, but I am particularly interested in graph theory and its applications in optimization and machine learning.
+Previously, I completed a RISE Worldwide research internship at Carnegie Mellon University's Robotics Institute, where I worked on safety-critical trajectory planning with MPC and Control Barrier Functions. I also spent a semester abroad at Aalto University and worked as a software engineering working student at Siemens Logistics.
