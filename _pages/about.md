@@ -27,8 +27,8 @@ social: true # includes social icons at the bottom of the page
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an M.Sc. Computer Science student at RWTH Aachen University, focusing on machine learning, optimization, algorithms, and graph theory.
+I am an M.Sc. Computer Science student at RWTH Aachen University, interested in machine learning, optimization, algorithms, and graph theory. I currently conduct research with the Learning on Graphs (LoG) group on graph learning and neural algorithmic reasoning.
 
-At RWTH's Chair for Machine Learning and Inference, I research self-supervised learning of discrete relational structures from image sequences, extending my bachelor's thesis on dynamic scene graph generation for action classification. I am also an equal-contribution first author of an oral GenPlan Workshop paper at ICAPS 2026.
+Previously, at RWTH's Chair for Machine Learning and Inference, I worked on learning discrete relational structures from image sequences, building on my bachelor's thesis on dynamic scene graph generation for action classification. With Ulzhalgas Rakhman and Hector Geffner, I co-authored a paper on learning symbolic planning domains from image sequences, presented at the GenPlan Workshop at ICAPS 2026.
 
 Previously, I completed a RISE Worldwide research internship at Carnegie Mellon University's Robotics Institute, where I worked on safety-critical trajectory planning with MPC and Control Barrier Functions. I also spent a semester abroad at Aalto University and worked as a software engineering working student at Siemens Logistics.
