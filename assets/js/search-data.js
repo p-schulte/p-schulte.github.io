@@ -9,19 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
-          title: "Publications",
+  },{id: "nav-research",
+          title: "research",
           description: "Selected publications and academic writing.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
-          },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "Current CV and selected academic/professional experience.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
