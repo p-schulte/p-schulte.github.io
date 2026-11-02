@@ -59,9 +59,7 @@
       "startDate": "2023-02-01",
       "endDate": "2024-11-30",
       "summary": "Designed and implemented C# features for an airport baggage handling system planning tool.",
-      "highlights": [
-        "Optimized computationally intensive planning components, reducing runtime by up to 80%"
-      ]
+      "highlights": ["Optimized computationally intensive planning components, reducing runtime by up to 80%"]
     }
   ],
   "education": [

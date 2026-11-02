@@ -4,17 +4,17 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Paul
-middle_name:  
+middle_name:
 last_name: Schulte
 contact_note: >
-  
+
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Portfolio of Paul Schulte, an M.Sc. Computer Science student at RWTH Aachen University working on machine learning, optimization, algorithms, and graph theory.
 footer_text: >
   Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>.
-keywords:  # add your own keywords or leave empty
+keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon:  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://p-schulte.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
